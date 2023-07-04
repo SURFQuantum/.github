@@ -9,8 +9,11 @@ For more information about our team check out:
 - [SURF Quantum Internet](https://www.surf.nl/quantum-internet)
 
 ## Our Mission
-
-[Your mission statement]
+- Support access and use of quantum simulators as well as physical quantum computers
+- Understand the required expertise and tools to transform regular applications into quantum applications
+- Stimulate and support the development of quantum applications
+- Understand the applicability for scientific applications
+- Support Dutch research to take early and competitive advantage of quantum technologies
 
 ## Projects
 
@@ -50,7 +53,7 @@ We believe in the power of community and learning from each other. Connect with 
 
 ## Contact Us
 
-For any queries or suggestions, feel free to reach out to us at [email](email link) or [contact form](contact form link).
+For any queries or suggestions, feel free to reach out to us through the contact information on our websites at the top of this page.
 
 ## License
 
