@@ -2,7 +2,12 @@
 
 ![SURF Logo](https://upload.wikimedia.org/wikipedia/commons/4/4b/SURF_logo_svg.svg)
 
-SURFQuantum is the offical git repository of ![SURF](https://www.surf.nl/)'s quantum team. Here we share our code about all things quantum: quantum computing, quantum internet but also workshops, tutorials and useful software tools.
+SURFQuantum is the offical git repository of [SURF](https://www.surf.nl/)'s quantum team. Here we share our code about all things quantum: quantum computing, quantum internet but also workshops, tutorials and useful software tools.
+
+For more information about our team check out:
+- [SURF Quantum Computing](https://www.surf.nl/quantum-computing)
+- [SURF Quantum Internet](https://www.surf.nl/quantum-internet)
+
 ## Our Mission
 
 [Your mission statement]
@@ -33,12 +38,6 @@ We believe in the power of community and learning from each other. Connect with 
 - [LinkedIn](https://www.linkedin.com/company/surf)
 - [SURF Community](https://communities.surf.nl/future-computing-and-networking)
 
-## Our Team
-- [aritoka](https://github.com/aritoka): Team Lead
-- [dmark04](https://github.com/dmark04): Quantum Computing and Networks
-- [krokkofant](https://github.com/krokkofant): Quantum Networks
-
-For a full list of team members, check [here](https://www.surf.nl/quantum-computing).
 
 ## Contact Us
 
