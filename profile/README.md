@@ -21,6 +21,15 @@ Here are some of our active projects:
 
 You can check out our other projects [here](https://github.com/orgs/SURFQuantum/repositories).
 
+## Repository Structure
+
+The repositories in this organization are named with prefixes to group repositories thematically as `<prefix>-<repo_name>`.
+- `qc-` Quantum Computing
+- `qn-` Quantum Networks/Internet
+- `edu-` education/trainings/workshops
+  
+Standalone software packages don't need prefixes.
+
 ## How to Contribute
 
 We welcome contributions from anyone and everyone! To get started, you can check our [Contribution Guidelines](link) and our [Code of Conduct](link).
@@ -45,4 +54,4 @@ For any queries or suggestions, feel free to reach out to us at [email](email li
 
 ## License
 
-This project is licensed under the [License Name](link).
+Most of our projects are licensed under the terms of the Apache License 2.0. Please refer to the individual projects README and license file for more detailed information.
