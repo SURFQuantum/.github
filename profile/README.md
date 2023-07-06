@@ -35,7 +35,7 @@ Standalone software packages don't need prefixes.
 
 ## How to Contribute
 
-We welcome contributions from anyone and everyone! To get started, you can check our [Contribution Guidelines](link) and our [Code of Conduct](link).
+We welcome contributions from anyone and everyone! To get started, you can check our [Contribution Guidelines](contribution_guidelines.md) and our [Code of Conduct](contribution_guidelines.md).
 
 If you're a first-time contributor, these resources might be helpful:
 
