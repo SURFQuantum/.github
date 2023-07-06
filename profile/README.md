@@ -1,6 +1,7 @@
 # Welcome to SURFQuantum
-
-![SURF Quantum Logo](https://avatars.githubusercontent.com/u/137903479?s=400&u=76d4ce819c6488cb689b7915ae0d5e26bbcfafb2&v=4)
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/137903479?s=400&u=76d4ce819c6488cb689b7915ae0d5e26bbcfafb2&v=4" alt="drawing" width="400"/>
+</p>
 
 SURFQuantum is the offical git repository of [SURF](https://www.surf.nl/)'s quantum team. Here we share our code about all things quantum: quantum computing, quantum internet but also workshops, tutorials and useful software tools.
 
