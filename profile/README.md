@@ -24,6 +24,8 @@ Here are some of our active projects:
 2. [Quantum Linear Systems Algorithms](https://github.com/SURFQuantum/qc-quantum-linear-systems): Full workflow for solving linear systems of equations with quantum algorithms such as HHL or VQLS.
 3. [Medical Imaging](https://github.com/SURFQuantum/qc-medical-imaging): Medical Imaging with Machine Learning and Quantum Machine Learning.
 4. [YOTSE - Your Optimization Tool for Scientific Experiments](https://github.com/SURFQuantum/yotse): YOTSE is a powerful tool designed to enable computational experiments using any software, offering a set of predefined functions for performing parameter explorations and optimizations in a scalable and efficient manner.
+5. [DecoProf](https://github.com/SURFQuantum/decoprof): Easy to use container of python profilers
+6. [HybridTest](https://github.com/SURFQuantum/hybrid-test): Test examples for hybrid computing
 
 You can check out our other projects [here](https://github.com/orgs/SURFQuantum/repositories).
 
