@@ -6,8 +6,8 @@
 SURFQuantum is the offical git repository of [SURF](https://www.surf.nl/)'s quantum team. Here we share our code about all things quantum: quantum computing, quantum internet but also workshops, tutorials and useful software tools.
 
 For more information about our team check out:
-- [SURF Quantum Computing](https://www.surf.nl/quantum-computing)
-- [SURF Quantum Internet](https://www.surf.nl/quantum-internet)
+- [SURF Quantum Computing](https://www.surf.nl/en/quantum-computing)
+- [SURF Quantum Internet](https://www.surf.nl/en/quantum-communication)
 
 ## Our Mission
 - Support access and use of quantum simulators as well as physical quantum computers
@@ -24,6 +24,7 @@ Here are some of our active projects:
 2. [Quantum Linear Systems Algorithms](https://github.com/SURFQuantum/qc-quantum-linear-systems): Full workflow for solving linear systems of equations with quantum algorithms such as HHL or VQLS.
 3. [Medical Imaging](https://github.com/SURFQuantum/qc-medical-imaging): Medical Imaging with Machine Learning and Quantum Machine Learning.
 4. [YOTSE - Your Optimization Tool for Scientific Experiments](https://github.com/SURFQuantum/yotse): YOTSE is a powerful tool designed to enable computational experiments using any software, offering a set of predefined functions for performing parameter explorations and optimizations in a scalable and efficient manner.
+5. [decoProf](https://github.com/SURFQuantum/decoProf) Easy to use wrapper/combination of python profiling tools.
 
 You can check out our other projects [here](https://github.com/orgs/SURFQuantum/repositories).
 
